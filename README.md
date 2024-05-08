@@ -6,5 +6,5 @@ With this application, you can use your Android device as a SMS gateway. A webse
 
 SMS Gateway on your device. Send SMS through HTTP GET requests, add users which can send SMS through a web page (and optionally limit to a set amount per month), parse incoming SMS and forward them to Email, SMS, URL based on rules! And more!
 
-Complete tutorial is here
-https://www.youtube.com/c/AtifNaseem
+Get Intouch With Us
+https://zangticsdigital.com/
